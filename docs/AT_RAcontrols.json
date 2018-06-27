@@ -1,0 +1,57 @@
+[
+  {
+    "Control Family": "AT",
+    "Control": "AT-1",
+    "L1": "PM-9"
+  },
+  {
+    "Control Family": "AT",
+    "Control": "AT-2",
+    "L1": "AT-3",
+    "L2": "PL-4"
+  },
+  {
+    "Control Family": "AT",
+    "Control": "AT-3",
+    "L1": "AT-2",
+    "L2": "PL-4",
+    "L3": "PS-7",
+    "L4": "SA-3",
+    "L5": "SA-12",
+    "L6": "SA-16"
+  },
+  {
+    "Control Family": "AT",
+    "Control": "AT-4",
+    "L1": "AT-2",
+    "L2": "PM-14"
+  },
+  {
+    "Control Family": "RA",
+    "Control": "RA-1",
+    "L1": "PM-9"
+  },
+  {
+    "Control Family": "RA",
+    "Control": "RA-2",
+    "L1": "CM-8",
+    "L2": "RA-3",
+    "L3": "SC-7"
+  },
+  {
+    "Control Family": "RA",
+    "Control": "RA-3",
+    "L1": "RA-2"
+  },
+  {
+    "Control Family": "RA",
+    "Control": "RA-5",
+    "L1": "CA-2",
+    "L2": "CM-4",
+    "L3": "CM-6",
+    "L4": "RA-2",
+    "L5": "RA-3",
+    "L6": "SA-11",
+    "L7": "SI-2"
+  }
+]

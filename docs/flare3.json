@@ -1,0 +1,226 @@
+{
+ "name": "cloud service offerings",
+ "children": [
+  {
+   "name": "18F Cloud.gov",
+   "children": [
+    {"name": "EPA","size": 2000},
+    {"name": "DOD","size": 2000},
+    {"name": "GSA","size": 2000}
+  ]},
+  {
+   "name": "Acadis Readiness Suite",
+   "children": [
+    {"name": "State","size": 2000}
+  ]},
+  {
+   "name": "Accenture Federal Cloud ERP",
+   "children": [
+    {"name": "DOE","size": 2000},
+    {"name": "NSF","size": 2000}
+  ]},
+  {
+   "name": "Aconex Collaboration Platform",
+   "children": [
+    {"name": "DOE","size": 2000}
+  ]},
+  {
+   "name": "Acquia Cloud",
+   "children": [
+    {"name": "HHS","size": 2000},
+    {"name": "DOC","size": 2000},
+    {"name": "DOE","size": 2000},
+    {"name": "DOJ","size": 2000},
+    {"name": "DOT","size": 2000},
+    {"name": "DOC","size": 2000},
+    {"name": "DOC","size": 2000},
+    {"name": "SSA","size": 2000},
+    {"name": "Treasury","size": 2000}
+  ]},
+  {
+   "name": "Adobe Connect Managed Services",
+   "children": [
+    {"name": "DoEd","size": 2000},
+    {"name": "DOJ","size": 2000},
+    {"name": "DOT","size": 2000},
+    {"name": "EPA","size": 2000},
+    {"name": "HHS","size": 2000},
+    {"name": "USAID","size": 2000}
+  ]},
+  {
+   "name": "Adobe Experience Manager Managed Services",
+   "children": [
+    {"name": "DHS","size": 2000},
+    {"name": "HHS","size": 2000},
+    {"name": "DoEd","size": 2000}
+  ]},
+  {
+   "name": "Airwatch by VMware",
+   "children": [
+    {"name": "DOC","size": 2000},
+    {"name": "DoEd","size": 2000}
+  ]},
+  {
+   "name": "Alma and Primo",
+   "children": [
+    {"name": "DOE","size": 2000},
+    {"name": "HHS","size": 2000}
+  ]},
+  {
+   "name": "Accompa",
+   "children": [
+    {"name": "DOE","size": 2000}
+  ]},
+  {
+   "name": "Adhoc",
+   "children": [
+    {"name": "DOE","size": 2000}
+  ]},
+  {
+   "name": "Adobe Creative Cloud Team Sites",
+   "children": [
+    {"name": "DOE","size": 2000},
+    {"name": "HHS","size": 2000}
+  ]},
+  {
+   "name": "ADP",
+   "children": [
+    {"name": "DOE","size": 2000}
+  ]},
+  {
+   "name": "Agile",
+   "children": [
+    {"name": "DOE","size": 2000}
+  ]},
+  {
+   "name": "Amazon",
+   "children": [
+    {"name": "EPA","size": 2000}
+  ]},
+  {
+   "name": "Aon Hewitt",
+   "children": [
+    {"name": "DOE","size": 2000}
+  ]},
+  {
+   "name": "Appian Cloud",
+   "children": [
+    {"name": "DOL","size": 2000},
+    {"name": "DOT","size": 2000},
+    {"name": "HHS","size": 2000},
+    {"name": "Treasury","size": 2000}
+  ]},
+  {
+   "name": "Apptis",
+   "children": [
+    {"name": "EPA","size": 2000}
+  ]},
+  {
+   "name": "Application Platform",
+   "children": [
+    {"name": "NARA","size": 2000}
+  ]},
+  {
+   "name": "ARC-P",
+   "children": [
+    {"name": "DHS","size": 2000},
+    {"name": "DOD","size": 2000},
+    {"name": "DOE","size": 2000},
+    {"name": "DOI","size": 2000},
+    {"name": "EPA","size": 2000},
+    {"name": "HHS","size": 2000}
+  ]},
+  {
+   "name": "Atlassian",
+   "children": [
+    {"name": "DOE","size": 2000}
+  ]},
+  {
+   "name": "Autodesk ",
+   "children": [
+    {"name": "DOD","size": 2000}
+  ]},
+  {
+   "name": "Autonomic Resources ",
+   "children": [
+    {"name": "OPM","size": 2000}
+  ]},
+  {
+   "name": "Avue Digital Services",
+   "children": [
+    {"name": "DOD","size": 2000},
+    {"name": "DOJ","size": 2000},
+    {"name": "DOT","size": 2000},
+    {"name": "HHS","size": 2000}
+  ]},
+  {
+   "name": "AWS GovCloud",
+   "children": [
+    {"name": "DHS","size": 2000},
+    {"name": "DOC","size": 2000},
+    {"name": "DOD","size": 2000},
+    {"name": "DOE","size": 2000},
+    {"name": "DoEd","size": 2000},
+    {"name": "DOI","size": 2000},
+    {"name": "DOJ","size": 2000},
+    {"name": "GSA","size": 2000},
+    {"name": "HHS","size": 2000},
+    {"name": "NSF","size": 2000},
+    {"name": "Treasury","size": 2000},
+    {"name": "State","size": 2000},
+    {"name": "USDA","size": 2000},
+    {"name": "VA","size": 2000}
+  ]},
+  {
+   "name": "AWS East/West",
+   "children": [
+    {"name": "DHS","size": 2000},
+    {"name": "DOC","size": 2000},
+    {"name": "DOD","size": 2000},
+    {"name": "DOE","size": 2000},
+    {"name": "DoEd","size": 2000},
+    {"name": "DOI","size": 2000},
+    {"name": "DOJ","size": 2000},
+    {"name": "DOL","size": 2000},
+    {"name": "DOT","size": 2000},
+    {"name": "GSA","size": 2000},
+    {"name": "HHS","size": 2000},
+    {"name": "HUD","size": 2000},
+    {"name": "NASA","size": 2000},
+    {"name": "NSF","size": 2000},
+    {"name": "SSA","size": 2000},
+    {"name": "Treasury","size": 2000},
+    {"name": "USAID","size": 2000},
+    {"name": "USDA","size": 2000},
+    {"name": "VA","size": 2000}
+  ]},
+  {
+   "name": "Azure Commercial Cloud",
+   "children": [
+    {"name": "DHS","size": 2000},
+    {"name": "DOC","size": 2000},
+    {"name": "DOD","size": 2000},
+    {"name": "DOE","size": 2000},
+    {"name": "DoEd","size": 2000},
+    {"name": "DOI","size": 2000},
+    {"name": "DOL","size": 2000},
+    {"name": "DOT","size": 2000},
+    {"name": "EPA","size": 2000},
+    {"name": "HHS","size": 2000},
+    {"name": "HUD","size": 2000},
+    {"name": "NSF","size": 2000},
+    {"name": "State","size": 2000},
+    {"name": "Treasury","size": 2000},
+    {"name": "USNRC","size": 2000},
+    {"name": "VA","size": 2000}
+  ]},
+  {
+   "name": "18F Cloud.gov",
+   "children": [
+    {"name": "EPA","size": 2000},
+    {"name": "DOD","size": 2000},
+    {"name": "GSA","size": 2000}
+  ]
+}
+]
+}

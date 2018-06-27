@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style type="text/css">
+
+table {
+  border-collapse: collapse;
+  font: 10px sans-serif;
+  width: 720px;
+}
+
+th {
+  font-weight: normal;
+  text-align: right;
+  padding-right: 6px;
+  min-width: 43px;
+}
+
+thead td {
+  cursor: s-resize;
+}
+
+tbody tr:first-child td {
+  padding-top: 2px;
+}
+
+tbody td {
+  padding: 0;
+  border-left: solid 1px #000;
+}
+
+tbody rect {
+  fill: steelblue;
+}
+
+tbody tr:hover rect {
+  fill: brown;
+}
+
+</style>
+
+<table>
+  <thead>
+    <tr>
+      <th>Phase</th>
+      <td>Cycle</td>
+      <td>Start Date</td>
+      <td>End Date</td>
+      <td>Elapsed Days</td>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script>
+
+d3.csv("data analytics project plan.csv", function(error, states) {
+  if (error) throw error;
+
+  var Plan = d3.keys(Phase[0]).filter(function(key) {
+    return key != "Phase";
+  });
+
+  d3.selectAll("thead td").data(Plan).on("click", function(k) {
+    tr.sort(function(a, b) { return (b[k] / b.Total) - (a[k] / a.Total); });
+  });
+
+  var tr = d3.select("tbody").selectAll("tr")
+      .data(Phase)
+    .enter().append("tr");
+
+  tr.append("th")
+      .text(function(d) { return d.Phase; });
+
+  tr.selectAll("td")
+      .data(function(d) { return Plan.map(function(k) { return d[k] / d.Total; }); })
+    .enter().append("td").append("svg")
+      .attr("width", 71)
+      .attr("height", 12)
+    .append("rect")
+      .attr("height", 12)
+      .attr("width", function(d) { return d * 71; });
+});
+
+</script>

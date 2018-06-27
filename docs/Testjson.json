@@ -1,0 +1,24 @@
+{
+  "nodes": [
+    {"name": "AC1", "group": 1},
+    {"name": "AC2", "group": 1},
+    {"name": "AC3", "group": 1},
+    {"name": "DB", "group": 2},
+    {"name": "DB1", "group": 2},
+    {"name": "DB2", "group": 2},
+    {"name": "DB3", "group": 2},
+    {"name": "FF", "group": 3},
+    {"name": "FF1", "group": 3},
+    {"name": "FF2", "group": 3}
+  ],
+  "links": [
+    {"source": "AC1", "target": "AC2", "value": 20},
+    {"source": "AC2", "target": "DB", "value": 20},
+    {"source": "AC3", "target": "AC2", "value": 20},
+    {"source": "DB", "target": "AC2", "value": 50},
+    {"source": "FF", "target": "AC2", "value": 10},
+    {"source": "DB1", "target": "DB", "value": 1},
+    {"source": "DB2", "target": "DB", "value": 1},
+    {"source": "DB3", "target": "DB", "value": 1}
+  ]
+}

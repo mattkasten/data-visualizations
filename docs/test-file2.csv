@@ -1,0 +1,624 @@
+Agency,CSP,CSO,Cloud Type,Agency Instance,ATO Status
+DHS,Adobe , Adobe Experience Manager Managed Services ,SaaS,USCIS ,ATO on File
+DHS,Akamai , Content Delivery Services ,IaaS,DHS,ATO on File
+DHS,CGI Federal , CGI IaaS Cloud ,IaaS,DHS,ATO on File
+DHS,CGI Federal , CGI IaaS Cloud ,IaaS,DHS,ATO on File
+DHS,CGI Federal , CGI IaaS Cloud ,IaaS,DHS,ATO on File
+DHS,CGI Federal , CGI IaaS Cloud ,IaaS,DHS,ATO on File
+DHS,CGI Federal , CGI IaaS Cloud ,IaaS,ICE,ATO on File
+DHS,Economic Systems , Economic Systems Federal Human Resources Navigator ,SaaS,DHS,ATO on File
+DHS,Economic Systems , Economic Systems Federal Human Resources Navigator ,SaaS,DHS,ATO on File
+DHS,Hewlett Packard Enterprise , HPE Helion for Public Sector ,IaaS,DHS,ATO on File
+DHS,Hewlett Packard Enterprise , HPE Fortify on Demand ,IaaS,DHS,ATO on File
+DHS,MicroPact , MicroPact Product Suite ,PaaS,CBP,ATO on File
+DHS,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,DHS ,ATO on File
+DHS,Oracle , Oracle Service Cloud ,SaaS,CBP,ATO on File
+DHS,Salesforce , Salesforce Government Cloud ,PaaS,USCIS,ATO on File
+DHS,Softlayer , Softlayer Federal Cloud ,IaaS,USCIS,ATO on File
+DHS,ConnectSolutions , ConnectSolutions FedRAMP MeetingCloud ,SaaS,USCIS,ATO In-Process
+DHS,Collibra , Data Governance Center ,SaaS,DHS,ATO In-Process
+DHS,Coupa Software Inc. , Coupa Cloud Spend Management Services ,SaaS,DHS,ATO In-Process
+DHS,IdeaScale , IdeaScale Gov ,SaaS,TSA,ATO In-Process
+DHS,"Lookout, Inc. ", Lookout Mobile Endpoint Security ,SaaS,DHS,ATO In-Process
+DHS,Oracle , U.S. Government Cloud,IaaS,CBP ,ATO In-Process
+DHS,Amazon , AWS GovCloud ,IaaS,,Need ATO
+DHS,Amazon , AWS US East/West ,IaaS,,Need ATO
+DHS,GovDelivery , GovDelivery Communication Cloud ,SaaS,,Need ATO
+DHS,Microsoft , Azure Commercial Cloud ,PaaS,,Need ATO
+DHS,Microsoft , Dynamics CRM Online for Government ,SaaS,,Need ATO
+DHS,Microsoft , Global Foundation Services ,IaaS,,Need ATO
+DHS,New Relic , New Relic ,SaaS,,Need ATO
+DHS,Oracle , Planning and Budgeting Cloud Services ,SaaS,,Need ATO
+DHS,ServiceNow , ServiceNow Service Automation Government Cloud Suite ,SaaS,CBP,Need ATO
+DHS,Microsoft , Forefront Online Protection for Exchange  ,IaaS,,No ATO
+DHS,Amazon , AWS US East/West ,IaaS,USCIS,Needs Confirmation
+DHS,Autonomic Resources ,ARC-P,IaaS,DHS,Needs Confirmation
+DHS,Microsoft , Azure Commercial Cloud ,IaaS,DHS,Needs Confirmation
+DHS,Akamai , Content Delivery Services ,IaaS,USCIS,Needs Confirmation
+DOC,AirWatch , Airwatch by VMware Government Services ,SaaS,Census,ATO on File
+DOC,Akamai , Content Delivery Services ,IaaS,Census,ATO on File
+DOC,Amazon , AWS US East/West ,IaaS,NIST,ATO on File
+DOC,Amazon , AWS US East/West ,IaaS,DOC,ATO on File
+DOC,Amazon , AWS US East/West ,IaaS,NOAA,ATO on File
+DOC,Amazon , AWS GovCloud ,IaaS,Census,ATO on File
+DOC,Amazon , AWS GovCloud ,IaaS,DOC,ATO on File
+DOC,Amazon , AWS GovCloud ,IaaS,Census,ATO on File
+DOC,Amazon , AWS GovCloud ,IaaS,NOAA,ATO on File
+DOC,Acquia Inc. , Acquia Cloud ,PaaS,NIST,ATO on File
+DOC,Cisco Systems Inc. , Cisco WebEx ,SaaS,Census,ATO on File
+DOC,Cornerstone On Demand ,Cornerstone On Demand ,SaaS,,ATO on File
+DOC,Esri , Esri Managed Cloud Services ,PaaS,Census,ATO on File
+DOC,GDIT , GDIT Cloud ,IaaS,Census,ATO on File
+DOC,Google , Google Services ,PaaS,NOAA,ATO on File
+DOC,GovDelivery , GovDelivery Communications Cloud ,SaaS,USPTO ,ATO on File
+DOC,Huddle , Huddle US ,IaaS,NIST,ATO on File
+DOC,IBM , MaaS360 Enterprise Mobility Management ,SaaS,NIST,ATO on File
+DOC,IBM , MaaS360 Enterprise Mobility Management ,SaaS,NTIA,ATO on File
+DOC,IBM , MaaS360 Enterprise Mobility Management ,SaaS,First Net,ATO on File
+DOC,IBM , MaaS360 Enterprise Mobility Management ,SaaS,NOAA,ATO on File
+DOC,Microsoft , Azure Commercial Cloud ,IaaS,NOAA,ATO on File
+DOC,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,NIST ,ATO on File
+DOC,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,NTIA ,ATO on File
+DOC,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,First Net ,ATO on File
+DOC,ServiceNow , ServiceNow Service Automation Government Cloud Suite ,SaaS,,ATO on File
+DOC,The Arcanum Group Inc. , Infor SyteLine ERP Suite ,SaaS,Census,ATO In-Process
+DOC,VBrick , VBrick Rev ,SaaS,USPTO,ATO In-Process
+DOC,Everbridge , Everbridge Suite ,SaaS,,Need ATO
+DOC,GovDelivery , GovDelivery Communications Cloud ,SaaS,,Need ATO
+DOC,MicroPact , MicroPact Product Suite ,PaaS,,Need ATO
+DOC,Microsoft , Global Foundation Services ,IaaS,,Need ATO
+DOC,Project Hosts ,Project Hosts ,SaaS,,Need ATO
+DOC,Salesforce , Salesforce Government Cloud ,PaaS,,Need ATO
+DOC,Verizon , Enterprise Cloud Federal Edition ,IaaS,,Need ATO
+DOC,Syteline,Syteline,SaaS,,Need ATO
+DOC,Certain Software,Certain Software,SaaS,,No ATO
+DOC,Dynnect ,Dynnect ,SaaS,,No ATO
+DOC,Emergency Notification System ,Emergency Notification System ,SaaS,,No ATO
+DOC,ILMS and AWS ,ILMS and AWS ,IaaS,,No ATO
+DOC,Kaltura,Kaltura,SaaS,,No ATO
+DOC,Logistics Management,Logistics Management,SaaS,,No ATO
+DOC,PhishMe ,PhishMe ,SaaS,,No ATO
+DOC,Amazon , AWS US East/West ,IaaS,USCB,Needs Confirmation
+DOC,Akamai , Content Delivery Services ,IaaS,NIST,Needs Confirmation
+DOC,Microsoft , Azure Commercial Cloud ,IaaS,NIST,Needs Confirmation
+DOC,Akamai , Content Delivery Services ,IaaS,NTIA,Needs Confirmation
+DOC,Microsoft , Azure Commercial Cloud ,IaaS,NTIA,Needs Confirmation
+DOD,18F , 18F Cloud.gov ,PaaS,DISA,ATO On File
+DOD,AINS, eCase ,PaaS,DISA,ATO On File
+DOD,Akamai , Content Delivery Services ,IaaS,DISA,ATO On File
+DOD,Amazon , AWS US East/West ,IaaS,DISA,ATO On File
+DOD,Amazon , AWS GovCloud ,IaaS,DHA,ATO On File
+DOD,Amazon , AWS GovCloud ,IaaS,Navy,ATO On File
+DOD,Amazon , AWS GovCloud ,IaaS,DISA,ATO On File
+DOD,AT&T , Storage as a Service ,IaaS,DISA,ATO On File
+DOD,"Autonomic Resources, a CSRA Company ",ARC-P,IaaS,DISA ,ATO On File
+DOD,Avue Technologies , Avue Digital Services¾,SaaS,DISA,ATO On File
+DOD,BlackMesh , SecureCloud ,PaaS,DISA,ATO On File
+DOD,"Box, Inc. ", Box Enterprise Cloud Content Collaboration Platform ,SaaS,DISA,ATO On File
+DOD,Economic Systems , Federal Human Resources Navigator ,SaaS,DISA,ATO On File
+DOD,GovDelivery , GovDelivery Communications Cloud ,SaaS,DISA,ATO On File
+DOD,Huddle , Huddle¾US ,SaaS,DISA,ATO On File
+DOD,IBM , SmartCloud for Government ,IaaS,DHMS,ATO On File
+DOD,IBM , SmartCloud for Government ,IaaS,DISA,ATO On File
+DOD,IBM , Cloud Managed Services for Government ,IaaS,DISA,ATO On File
+DOD,Leidos , Solutions as a Service ,IaaS,DISA,ATO On File
+DOD,MicroPact , MicroPact Product Suite ,PaaS,DISA,ATO On File
+DOD,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,DISA ,ATO On File
+DOD,Microsoft , Azure Government [DISA],IaaS,DISA,ATO On File
+DOD,OMB , MAX General Support Services¾,IaaS,DISA,ATO On File
+DOD,OMB , MAX.gov Shared Services ,PaaS,DISA,ATO On File
+DOD,Oracle , Federal Managed Cloud Services ,PaaS,DISA,ATO On File
+DOD,Oracle , Oracle Service Cloud ,SaaS,DISA,ATO On File
+DOD,Oracle , Oracle Service Cloud ,SaaS,DOD,ATO On File
+DOD,Project Host , Federal Private Cloud for Windows and Linux Applications ,SaaS,DISA,ATO On File
+DOD,QTS , QTS Government Cloud ,IaaS,DISA,ATO On File
+DOD,Salesforce , Salesforce Government Cloud ,PaaS,DISA,ATO On File
+DOD,United States Department of Agriculture , USDA National Information Technology Center ,IaaS,DISA,ATO On File
+DOD,United States Department of the Treasury Workplace.gov Community Cloud ,United States Department of the Treasury Workplace.gov Community Cloud ,SaaS,,ATO On File
+DOD,Verizon , Enterprise Cloud Federal Edition ,IaaS,,ATO On File
+DOD,Autodesk , Autodesk BIM 360 Glue ,SaaS,USACE,ATO In-Process
+DOD,Autodesk , Autodesk Cloud Services ,SaaS,USACE,ATO In-Process
+DOD,Blackboard , Blackboard Learn & Collaborate ,SaaS,NGA,ATO In-Process
+DOD,"Edge Hosting, LLC ", Edge FedRAMP Compliant CloudPlus [DISA],SaaS,DISA,ATO In-Process
+DOD,TRAPWIRE , TRAPWIRE Threat Detection and Analysis System ,SaaS,PFPA,ATO In-Process
+DOD,IBM , MaaS360 Enterprise Mobility Management ,SaaS,,Need ATO
+DOD,Hewlett Packard Enterprise , HPE Helion for Public Sector ,IaaS,,Need ATO
+DOD,Amazon , AWS GovCloud [USTC],SaaS,USTC,ATO Expired
+DOE,Accellion , Kiteworks Federal Cloud ,SaaS,DOE,ATO on File
+DOE,Accenture , Accenture Federal Cloud ERP ,SaaS,FERC,ATO on File
+DOE,Akamai , Content Delivery Services ,IaaS,DoE,ATO on File
+DOE,Amazon , AWS US East/West ,IaaS,EIA,ATO on File
+DOE,Amazon , AWS US East/West ,IaaS,FERC,ATO on File
+DOE,Amazon , AWS GovCloud ,IaaS,NNSA/LLNL,ATO on File
+DOE,Amazon , AWS GovCloud ,IaaS,NREL,ATO on File
+DOE,Autonomic Resources LLC ,ARC-P,IaaS,NREL ,ATO on File
+DOE,Blackberry , BlackBerry Cloud AtHoc Services for Government,SaaS,DOE ,ATO on File
+DOE,Blackberry , BlackBerry Cloud AtHoc Services for Government,SaaS,DOE,ATO on File
+DOE,Blackmesh , Secure Cloud ,PaaS,DOE,ATO on File
+DOE,Datapipe Government Solutions , Datapipe Government Solutions Federal Community Cloud Platform ,PaaS,FERC,ATO on File
+DOE,Economic Systems , Economic Systems Federal Human Resources Navigator ,SaaS,DOE,ATO on File
+DOE,Huddle , Huddle US¾,IaaS,DOE,ATO on File
+DOE,Microsoft , Azure Government ,IaaS,FERC,ATO on File
+DOE,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,DOE,ATO on File
+DOE,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,FERC ,ATO on File
+DOE,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,NNSA/LLNL ,ATO on File
+DOE,Salesforce , Salesforce Government Cloud ,PaaS,EIA,ATO on File
+DOE,Salesforce , Salesforce Government Cloud ,PaaS,NNSA/LLNL,ATO on File
+DOE,ServiceNow , ServiceNow Service Automation Government Cloud Suite ,SaaS,DOE,ATO on File
+DOE,ServiceNow , ServiceNow Service Automation Government Cloud Suite ,SaaS,FERC,ATO on File
+DOE,Aconex Limited , Aconex Collaboration Platform for Project Information and Process Management ,SaaS,DOE,ATO In-Process
+DOE,"Edge Hosting, LLC ", Edge FedRAMP Compliant CloudPlus ,IaaS,FERC,ATO In-Process
+DOE,Rave Mobile Safety , Rave Alert ,SaaS,OEERE,ATO In-Process
+DOE,Acquia Inc. , Acquia Cloud ,PaaS,,Need ATO
+DOE,"Box, Inc. ", Box Enterprise Cloud Content Collaboration Platform ,SaaS,,Need ATO
+DOE,Cisco , Cisco WebEx Conferencing Service ,SaaS,,Need ATO
+DOE,"Citrix Systems, Inc.", Citrix Fileshare ,SaaS,,Need ATO
+DOE,"Cylance, Inc. ", CylancePROTECT ,SaaS,,Need ATO
+DOE,Everbridge , Everbridge Suite ,SaaS,,Need ATO
+DOE,Ex Libris , Alma and Primo,SaaS,,Need ATO
+DOE,Google , Google Service ,PaaS,,Need ATO
+DOE,GovDelivery , GovDeilvery Communication Cloud ,SaaS,,Need ATO
+DOE,IBM , MaaS360 Enterprise Mobility Management ,SaaS,,Need ATO
+DOE,IdeaScale , IdeaScale Gov ,SaaS,,Need ATO
+DOE,Microsoft , Dynamics CRM Online for Government ,SaaS,,Need ATO
+DOE,MobileIron , MobileIron Government Cloud ,SaaS,,Need ATO
+DOE,Oracle , Oracle Service Cloud ,SaaS,,Need ATO
+DOE,Oracle , Taleo Cloud ,SaaS,,Need ATO
+DOE,"Proofpoint, Inc. ", Proofpoint Email Archive ,SaaS,,Need ATO
+DOE,Skyhigh , Cloud Access Secuirty Broker for Government ,SaaS,,Need ATO
+DOE,Accompa ,Accompa ,SaaS,,No ATO
+DOE,Adhoc ,Adhoc ,SaaS,,No ATO
+DOE,Adobe Creative Cloud Team Sites ,Adobe Creative Cloud Team Sites ,SaaS,,No ATO
+DOE,ADP ,ADP ,SaaS,,No ATO
+DOE,Agile ,Agile ,PaaS,,No ATO
+DOE,Alma ,Alma ,SaaS,,No ATO
+DOE,Aon Hewitt ,Aon Hewitt ,SaaS,,No ATO
+DOE,Atlassian ,Atlassian ,SaaS,,No ATO
+DOE,AutoDesk,AutoDesk,SaaS,,No ATO
+DOE,BlueJeans ,BlueJeans ,SaaS,,No ATO
+DOE,BrassRing,BrassRing,SaaS,,No ATO
+DOE,Capriza ,Capriza ,SaaS,,No ATO
+DOE,Code42 ,Code42 ,SaaS,,No ATO
+DOE,Crashplan,Crashplan,SaaS,,No ATO
+DOE,Cvent ,Cvent ,SaaS,,No ATO
+DOE,Dayforce,Cerdian ,SaaS,,No ATO
+DOE,Doxelerate,Doxelerate,SaaS,,No ATO
+DOE,Dropbox ,Dropbox ,SaaS,,No ATO
+DOE,Dual Security,Dual Security,SaaS,,No ATO
+DOE,Ebid Systems,Ebid Systems,SaaS,,No ATO
+DOE,eCPIC,eCPIC,SaaS,,No ATO
+DOE,EMAT ,EMAT ,SaaS,,No ATO
+DOE,Energy.gov,Energy.gov,SaaS,,No ATO
+DOE,Enviance ,Enviance ,IaaS,,No ATO
+DOE,Equifax ,Equifax ,SaaS,,No ATO
+DOE,Fermilab eBid ,Fermilab eBid ,SaaS,,No ATO
+DOE,Fireamp ,Fireamp ,PaaS,,No ATO
+DOE,Fluke ,Fluke ,SaaS,,No ATO
+DOE,FTL,Kronos ,SaaS,,No ATO
+DOE,GitHub ,GitHub ,SaaS,,No ATO
+DOE,GoAnimate,GoAnimate,SaaS,,No ATO
+DOE,Greatland,Greatland,SaaS,,No ATO
+DOE,Kronos,Kronos,SaaS,,No ATO
+DOE,"LawLogix Group, Inc. ","LawLogix Group, Inc. ",SaaS,,No ATO
+DOE,LCPTracker ,LCPTracker ,SaaS,,No ATO
+DOE,Locus Technologies ,Locus Technologies ,SaaS,,No ATO
+DOE,MainConn,MainConn,SaaS,,No ATO
+DOE,Mayohealth,Mayohealth,SaaS,,No ATO
+DOE,Navvia,Navvia,SaaS,,No ATO
+DOE,OneExchange ,OneExchange ,SaaS,,No ATO
+DOE,Pager Duty,Pager Duty,SaaS,,No ATO
+DOE,Pantheon ,Pantheon ,PaaS,,No ATO
+DOE,Peoplefluent ,Peoplefluent ,SaaS,,No ATO
+DOE,PhishMe,PhishMe,SaaS,,No ATO
+DOE,Piktochart ,Piktochart ,SaaS,,No ATO
+DOE,ReadyTalk ,ReadyTalk ,SaaS,,No ATO
+DOE,Salamander ,Salamander ,SaaS,,No ATO
+DOE,ShareLaTeX ,ShareLaTeX ,SaaS,,No ATO
+DOE,"Slack Technologies, Inc. ","Slack Technologies, Inc. ",SaaS,,No ATO
+DOE,StreetSaver ,StreetSaver ,SaaS,,No ATO
+DOE,SurveyMonkey,SurveyMonkey,SaaS,,No ATO
+DOE,TalentBrew ,TalentBrew ,SaaS,,No ATO
+DOE,"Tenable, Inc. ","Tenable, Inc. ",PaaS,,No ATO
+DOE,United Healthcare/Rally ,United Healthcare/Rally ,SaaS,,No ATO
+DOE,Vinimaya ,Vinimaya ,SaaS,,No ATO
+DOE,Virgin Pulse ,Virgin Pulse ,SaaS,,No ATO
+DOE,Wageworks ,Wageworks ,SaaS,,No ATO
+DOE,Workday ,Workday ,SaaS,,No ATO
+DOE,Wrike ,Wrike ,SaaS,,No ATO
+DOE,Youtube ,Youtube ,SaaS,,No ATO
+DOE,Zoom Video Communications,Zoom Video Communications,SaaS,,No ATO
+DOEd,Adobe , Adobe Connect Managed Services ,SaaS,DoEd ,ATO on File
+DOEd,AINS , eCase ,PaaS,DoEd,ATO on File
+DOEd,Airwatch , Airwatch by VMware Government Services ,SaaS,DoEd,ATO on File
+DOEd,Amazon , AWS GovCloud ,IaaS,DoEd,ATO on File
+DOEd,Amazon , AWS GovCloud ,IaaS,DoEd,ATO on File
+DOEd,CGI Federal , CGI IaaS Cloud ,IaaS,DoEd,ATO on File
+DOEd,General Dynamics IT , GDIT Cloud ,IaaS,FSA,ATO on File
+DOEd,General Dynamics IT , GDIT Cloud ,IaaS,FSA,ATO on File
+DOEd,Hewlett Packard Enterprise , HPE Helion for Public Sector ,IaaS,FSA,ATO on File
+DOEd,Microsoft , Dynamics CRM Online for Government ,SaaS,FSA,ATO on File
+DOEd,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,DoEd,ATO on File
+DOEd,Oracle , Federal Managed Cloud Services ,PaaS,FSA,ATO on File
+DOEd,Salesforce  _  Salesforce Government Cloud ,Salesforce  _  Salesforce Government Cloud ,SaaS,,ATO on File
+DOEd,Salesforce _ Salesforce Government Cloud ,Salesforce _ Salesforce Government Cloud ,SaaS,,ATO on File
+DOEd,BMC Software , BMC Remedyforce ,SaaS,DoEd,ATO In-Process
+DOEd,Adobe Experience Manager Managed Services ,Adobe Experience Manager Managed Services ,SaaS,,Need ATO
+DOEd,Akamai , Content Delivery Services ,IaaS,,Need ATO
+DOEd,Amazon , AWS US East/West ,IaaS,,Need ATO
+DOEd,Google , Google Services ,PaaS,,Need ATO
+DOEd,GovDelivery , GovDelivery Communications Cloud ,SaaS,,Need ATO
+DOEd,MicroPact , MicroPact Product Suite ,PaaS,,Need ATO
+DOEd,Microsoft Parature , Customer Service Application ,SaaS,,Need ATO
+DOEd,Qualys , Qualys Cloud Platform ,SaaS,,Need ATO
+DOEd,Genesys ,Genesys ,SaaS,,No ATO
+DOEd,Google Analytics Premium,Google Analytics Premium,SaaS,,No ATO
+DOEd,WebTrends On Demand ,WebTrends On Demand ,SaaS,,No ATO
+DOEd,Akamai , Content Delivery Services ,IaaS,FSA,Needs Confirmation
+DOEd,Akamai , Content Delivery Services ,IaaS,DoEd,Needs Confirmation
+DOEd,Microsoft , Azure Commercial Cloud ,IaaS,DoEd,Needs Confirmation
+DOEd,Microsoft , Azure Government ,IaaS,FSA,Needs Confirmation
+DOI,Accellion , Kiteworks Federal Cloud ,SaaS,DOI,ATO on File
+DOI,Akamai , Content Delivery Services ,IaaS,DOI,ATO on File
+DOI,Amazon , AWS GovCloud ,IaaS,DOI,ATO on File
+DOI,Amazon , AWS US East/West ,IaaS,DOI,ATO on File
+DOI,Economic Systems , Economic Systems Federal Human Resources Navigator ,SaaS,DOI,ATO on File
+DOI,Google , Google Services ,PaaS,DOI,ATO on File
+DOI,IBM , MaaS360 Enterprise Mobility Management ,SaaS,DOI,ATO on File
+DOI,IBM , SmartCloud for Government ,IaaS,DOI,ATO on File
+DOI,IBM , SmartCloud for Government ,IaaS,DOI,ATO on File
+DOI,MicroPact , MicroPact Product Suite ,PaaS,DOI,ATO on File
+DOI,MicroPact , MicroPact Product Suite ,PaaS,DOI,ATO on File
+DOI,Microsoft , Dynamics CRM Online for Government ,SaaS,BIA,ATO on File
+DOI,Microsoft , Azure Commercial Cloud ,IaaS,DOI,ATO on File
+DOI,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,DOI ,ATO on File
+DOI,Salesforce , Salesforce Government Cloud ,PaaS,DOI,ATO on File
+DOI,ServiceNow , ServiceNow Service Automation Government Cloud Suite ,SaaS,BSEE,ATO on File
+DOI,Softlayer , Softlayer Federal Cloud ,IaaS,DOI,ATO on File
+DOI,Virtustream , Federal Cloud ,IaaS,DOI,ATO on File
+DOI,Conservation Biology Institute , Data Basin ,SaaS,FWS,ATO In-Process
+DOI,FireEye , FireEye Email Threat Prevention Service,SaaS,DOI,ATO In-Process
+DOI,Send Word Now , SWN Emergency Notification Service ,SaaS,,ATO In-Process
+DOI,Apptio , The Apptio Technology Business Management ,SaaS,,Need ATO
+DOI,Esri , Esri Managed Cloud Services,SaaS,,Need ATO
+DOI,GovDelivery , GovDelivery Communication Cloud ,SaaS,,Need ATO
+DOI,Autonomic Resources LLC ,ARC-P,IaaS,BOP ,Needs Confirmation
+DOJ,Amazon , AWS East / West ,IaaS,BOP,ATO on File
+DOJ,Avue Technologies , Avue Digital Services¾,SaaS,OJP,ATO on File
+DOJ,Datapipe Government Solutions , Datapipe Government Solutions Federal Community Cloud Platform ,PaaS,OJP,ATO on File
+DOJ,Okta , IDaaS ,SaaS,DOJ,ATO on File
+DOJ,Salesforce , Salesforce Government Cloud ,PaaS,USMS,ATO on File
+DOJ,Microsoft , Office 365 with International Traffic In Arms ,SaaS,DOJ,ATO In-Process
+DOJ,Oracle , Taleo Cloud ,SaaS,DOL,ATO In-Process
+DOJ,Amazon , AWS US East/West ,IaaS,,ATO Expired
+DOJ,1901 Group , In3Sight Service System ,IaaS,,Need ATO
+DOJ,Acquia Inc. , Acquia Cloud ,PaaS,,Need ATO
+DOJ,Adobe Systems , Adobe Connect Managed Services ,SaaS,,Need ATO
+DOJ,"AINS, Inc.", eCase ,PaaS,,Need ATO
+DOJ,"Box, Inc. ", Box Enterprise Cloud Content Collaboration Platform ,SaaS,,Need ATO
+DOJ,Economic Systems , Economic Systems Federal Human Resources Navigator ,SaaS,,Need ATO
+DOJ,General Dynamics Information Technology , GDIT Customer eXperience Platform ,SaaS,,Need ATO
+DOJ,Google , Google Services ,PaaS,,Need ATO
+DOJ,GovDelivery , GovDelivery Communications Cloud ,SaaS,,Need ATO
+DOJ,Leidos , Solutions as a Service ,IaaS,,Need ATO
+DOJ,MicroPact , MicroPact Product Suite ,PaaS,,Need ATO
+DOJ,Proofpoint , Proofpoint Email Archive ,SaaS,,Need ATO
+DOJ,"ServiceNow, Inc. ", ServiceNow Service Automation Government Cloud Suite ,SaaS,,Need ATO
+DOJ,Relativity ,Relativity ,SaaS,,No ATO
+DOJ,CACI,CACI,SaaS,,No ATO
+DOJ,Amazon , AWS GovCloud,SaaS,,Needs Confirmation
+DOJ,Amazon , AWS US East / West,SaaS,,Needs Confirmation
+DOJ,Akamai , Content Delivery Services ,IaaS,USMS,Needs Confirmation
+DOL,Amazon , AWS US East/West ,IaaS,DOL,ATO on File
+DOL,Amazon , AWS US East/West ,IaaS,DOL,ATO on File
+DOL,Appian , Appian Cloud ,PaaS,DOL,ATO on File
+DOL,Deloitte , Deloitte Federal Technology Center ,SaaS,DOL,ATO on File
+DOL,General Dynamics Information Technology , GDIT Cloud ,IaaS,DOL,ATO on File
+DOL,IBM , MaaS360 Enterprise Mobility Management ,SaaS,DOL,ATO on File
+DOL,MicroPact , MicroPact Product Suite ,PaaS,BRB,ATO on File
+DOL,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,FAA,ATO on File
+DOL,Salesforce , Salesforce Government Cloud ,PaaS,DOL,ATO on File
+DOL,United States Department of Agriculture , USDA National Information Technology Center ,IaaS,,ATO Expired
+DOL,CDS _ Federal Cloud Discovery Services,CDS _ Federal Cloud Discovery Services,SaaS,,Need ATO
+DOL,GovDelivery _ GovDelivery Communications Cloud ,GovDelivery _ GovDelivery Communications Cloud ,SaaS,,Need ATO
+DOL,Verizon , Enterprise Cloud Federal Edition ,IaaS,,Need ATO
+DOL,"Development Infostructure, Inc. ","Development Infostructure, Inc. ",IaaS,,No ATO
+DOL,DHS , PaaS ,PaaS,,No ATO
+DOL,DLT Solutions ,DLT Solutions ,IaaS,,No ATO
+DOL,Inforeliance ,Inforeliance ,IaaS,,No ATO
+DOL,InuTech ,InuTech ,SaaS,,No ATO
+DOL,Akamai , Content Delivery Services ,IaaS,DOL,Needs Confirmation
+DOL,Microsoft , Azure Commercial Cloud ,IaaS,DOL,Needs Confirmation
+DOT,Acquia Inc. , Acquia Cloud ,PaaS,OST,ATO on File
+DOT,Appian , Appian Cloud ,PaaS,FTA,ATO on File
+DOT,BlackBerry , BlackBerry Cloud AtHoc Services for Government,SaaS,DOT ,ATO on File
+DOT,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,FAA ,ATO on File
+DOT,Microsoft , Azure Commercial Cloud ,IaaS,DOT,ATO on File
+DOT,Proofpoint , Proofpoint Email Archive ,SaaS,FAA,ATO on File
+DOT,Socrata , Socrata Data Platform ,SaaS,DOT,ATO on File
+DOT,SAP NS2 , SAP NS2 Cloud ,SaaS,EPA,ATO In-Process
+DOT,Adobe , Adobe Connect Managed Services ,SaaS,FWHA,Need ATO
+DOT,Amazon , AWS ,PaaS,,Need ATO
+DOT,Decision Lens Inc. , Decision Lens Software ,SaaS,FMCSA,Need ATO
+DOT,GovDelivery , GovDelivery Communications Cloud ,SaaS,,Need ATO
+DOT,HP ,HP ,SaaS,,Need ATO
+DOT,MicroPact , MicroPact Product Suite ,PaaS,,Need ATO
+DOT,Microsoft , Azure Government ,IaaS,,Need ATO
+DOT,New Relic , New Relic ,SaaS,,Need ATO
+DOT,Salesforce , Salesforce Government Cloud ,PaaS,,Need ATO
+DOT,Send Word Now , SWN Emergency Notification Service ,SaaS,,Need ATO
+DOT,Verizon , Enterprise Cloud Federal Edition ,IaaS,,Need ATO
+DOT,Virtustream Inc. , Federal Cloud ,IaaS,,Need ATO
+DOT,Citrix GoToMeeting ,Citrix GoToMeeting ,SaaS,,No ATO
+DOT,Amazon , AWS US East/West ,IaaS,OST,Needs Confirmation
+EPA,Economic Systems , Federal Human Resources Navigator ,SaaS,EPA,ATO on File
+EPA,Microsoft , Azure Commercial Cloud ,IaaS,EPA,ATO on File
+EPA,Microsoft , Azure Commercial Cloud ,IaaS,EPA,ATO on File
+EPA,Salesforce , Salesforce Government Cloud ,PaaS,EPA,ATO on File
+EPA,Skillsoft , Private Cloud ,SaaS,EPA,ATO on File
+EPA,18F , 18F Cloud.gov,SaaS,,Need ATO
+EPA,Adobe Systems , Adobe Connect Managed Services ,SaaS,,Need ATO
+EPA,Amazon ,Amazon ,SaaS,,Need ATO
+EPA,CGI Federal , CGI Federal Cloud ,IaaS,,Need ATO
+EPA,GovDelivery , GovDelivery Communication Cloud ,SaaS,,Need ATO
+EPA,IBM , MaaS360 Enterprise Mobility Management ,SaaS,,Need ATO
+EPA,MicroPact , MicroPact Product Suite ,PaaS,,Need ATO
+EPA,Apptis,Apptis,SaaS,,No ATO
+EPA,Concur,Concur,SaaS,,No ATO
+EPA,US Department of Interior,US Department of Interior,SaaS,,No ATO
+EPA,Autonomic Resources LLC ,ARC-P,IaaS,HHS,Needs Confirmation
+EPA,Akamai , Content Delivery Services ,IaaS,EPA,Needs Confirmation
+GSA,18F , 18F Cloud.gov ,PaaS,GSA,ATO on File
+GSA,Akamai , Content Delivery Services ,IaaS,GSA,ATO on File
+GSA,Amazon , AWS GovCloud High ,IaaS,GSA,ATO on File
+GSA,Amazon , AWS US East/West ,IaaS,GSA,ATO on File
+GSA,CGI Federal , CGI IaaS Cloud ,IaaS,GSA,ATO on File
+GSA,Google , Google Services ,PaaS,GSA,ATO on File
+GSA,GovDelivery , GovDelivery Communication Cloud ,SaaS,GSA,ATO on File
+GSA,IBM , MaaS360 Enterprise Mobility Management ,SaaS,GSA,ATO on File
+GSA,IBM , SmartCloud for Government ,IaaS,GSA,ATO on File
+GSA,MicroPact , MicroPact Product Suite¾,PaaS,GSA,ATO on File
+GSA,Project Hosts , Federal Private Cloud for Windows and Linux Application ,SaaS,GSA,ATO on File
+GSA,Project Hosts , Federal Private Cloud for Windows and Linux Application ,SaaS,GSA,ATO on File
+GSA,Salesforce , Salesforce Government Cloud ,PaaS,GSA,ATO on File
+GSA,"ServiceNow, Inc. ", ServiceNow Service Automation Government Cloud Suite ,SaaS,GSA,ATO on File
+GSA,United States Department of Agriculture , USDA National Information Technology Center ,IaaS,GSA,ATO on File
+GSA,Cirrus Insight , Cirrus Insight ,SaaS,GSA,ATO In-Process
+GSA,CloudLock , Cloudlock Security Fabric for Federal¾,SaaS,GSA,ATO In-Process
+GSA,CTAC , Platform as a Service ,PaaS,GSA,ATO In-Process
+GSA,Everbridge , Everbridge Suite ,SaaS,GSA,ATO In-Process
+GSA,"Edge Hosting, LLC ", Edge FedRAMP Compliant CloudPlus ,IaaS,GSA,ATO In-Process
+GSA,Hewlett Packard Enterprise , HPE Fortify on Demand ,SaaS,,Need ATO
+GSA,New Relic , New Relic ,SaaS,,Need ATO
+GSA,Decision Lens Inc. , Decision Lens Software,SaaS,,Need ATO
+GSA,Eloqua,Eloqua,SaaS,,No ATO
+GSA,Kissflow ,Kissflow ,SaaS,,No ATO
+GSA,Slack ,Slack ,SaaS,,No ATO
+GSA,Trello ,Trello ,SaaS,,No ATO
+GSA,Twilio,Twilio,SaaS,,No ATO
+GSA,UpTrends,UpTrends,SaaS,,No ATO
+GSA,Zendesk ,Zendesk ,SaaS,,No ATO
+GSA,Zoom ,Zoom ,SaaS,,No ATO
+HHS,Adobe , Adobe Connect Managed Services ,SaaS,HHS,ATO on File
+HHS,Adobe , Adobe Connect Managed Services ,SaaS,HHS,ATO on File
+HHS,Adobe , Adobe Experience Manager Managed Services ,SaaS,HHS,ATO on File
+HHS,Adobe ,Adobe ,SaaS,,ATO on File
+HHS,Amazon , AWS GovCloud ,IaaS,HHS,ATO on File
+HHS,Amazon , AWS GovCloud ,IaaS,FDA,ATO on File
+HHS,Amazon , AWS US East/West ,IaaS,HHS,ATO on File
+HHS,Amazon , AWS US East/West ,IaaS,HRSA,ATO on File
+HHS,Amazon , AWS US East/West ,IaaS,FDA,ATO on File
+HHS,Appian , Appian Cloud ,PaaS,FDA,ATO on File
+HHS,Autonomic Resources LLC ,ARC-P,IaaS,CMS ,ATO on File
+HHS,Avue Technologies , Avue Digital Services ,IaaS,FDA,ATO on File
+HHS,Cisco Systems Inc. , Cisco WebEx ,SaaS,HHS,ATO on File
+HHS,Cisco Systems Inc. , Cisco Hosted Collaboration Solution for Government ,SaaS,HHS ,ATO on File
+HHS,"Compusearch Software Systems, Inc. ", PRISM SaaS ,SaaS,NIH,ATO on File
+HHS,Decision Lens Inc. , Decision Lens Software ,SaaS,CMS,ATO on File
+HHS,GovDelivery , GovDelivery Communications Cloud ,SaaS,AHRQ,ATO on File
+HHS,Huddle , Huddle US¾,IaaS,NIH,ATO on File
+HHS,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,HHS,ATO on File
+HHS,Microsoft , Dynamics CRM Online for Government ,SaaS,HHS,ATO on File
+HHS,Netcomm , Beacon ,SaaS,HHS,ATO on File
+HHS,Oracle , Federal Managed Cloud Services ,PaaS,HHS,ATO on File
+HHS,Qualys , Qualys Cloud Platform ,SaaS,HHS,ATO on File
+HHS,Salesforce , Salesforce Government Cloud ,PaaS,HHS,ATO on File
+HHS,Salesforce , Salesforce Government Cloud ,PaaS,FDA,ATO on File
+HHS,Salesforce , Salesforce Government Cloud ,PaaS,CMS,ATO on File
+HHS,ServiceNow , ServiceNow Service Automation Government Cloud Suite ,SaaS,FDA,ATO on File
+HHS,United States Department of Agriculture , USDA National Information Technology Center ,IaaS,FDA,ATO on File
+HHS,Verizon , Enterprise Cloud Federal Edition ,IaaS,HHS,ATO on File
+HHS,CFI Group , Customer Feedback Management System ,SaaS,HHS,ATO In-Process
+HHS,CSC , NX ,IaaS,HHS,ATO In-Process
+HHS,Druva , Druva inSync ,SaaS,NCI,ATO In-Process
+HHS,"Equinix, Inc. ", Equinix Cloud Exchange ,IaaS,OIG,ATO In-Process
+HHS,Ex Libris , Alma and Primo ,SaaS,HHS,ATO In-Process
+HHS,Qualtrics , Qualtrics Insight Platform ,SaaS,HHS,ATO In-Process
+HHS,Acquia Inc. , Acquia Cloud,SaaS,,Need ATO
+HHS,AINS , eCase,SaaS,,Need ATO
+HHS,Akamai , Content Delivery Services,SaaS,,Need ATO
+HHS,IBM , MaaS360 Enterprise Mobility Management ,SaaS,,Need ATO
+HHS,MicroPact , MicroPact Product Suite ,PaaS,,Need ATO
+HHS,Microsoft , Azure Public and Government Community Cloud Solution ,IaaS,,Need ATO
+HHS,New Relic , New Relic ,SaaS,,Need ATO
+HHS,Socrata ,Socrata ,SaaS,,Need ATO
+HHS,Innotas,Innotas,SaaS,,No ATO
+HHS,Lockheed Martin,Lockheed Martin,SaaS,,No ATO
+HHS,MediData ,MediData ,SaaS,,No ATO
+HHS,Savvis/Centurylink,Savvis/Centurylink,SaaS,,No ATO
+HHS,Terremark ,Terremark ,SaaS,,No ATO
+HHS,Akamai , Content Delivery Services ,IaaS,HHS OIG,Needs Confirmation
+HHS,Microsoft , Azure Commercial Cloud ,IaaS,HHS OIG,Needs Confirmation
+HHS,Microsoft , Azure Government Cloud ,IaaS,HHS,Needs Confirmation
+HHS,Akamai , Content Delivery Services ,IaaS,FDA,Needs Confirmation
+HUD,AINS , eCase ,IaaS,HUD,ATO on File
+HUD,Akamai , Content Delivery Services ,IaaS,HUD,ATO on File
+HUD,Amazon , AWS US East/West ,IaaS,HUD,ATO on File
+HUD,Esri , Esri Managed Cloud Services ,PaaS,HUD,ATO on File
+HUD,MicroPact , MicroPact Product Suite ,PaaS,HUD,ATO on File
+HUD,Microsoft , Azure Commercial Cloud ,IaaS,HUD,ATO on File
+HUD,Microsoft , Dynamics CRM Online for Government ,SaaS,HUD,ATO on File
+HUD,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,HUD ,ATO on File
+HUD,Oracle , Federal Managed Cloud Services ,PaaS,HUD,ATO on File
+HUD,Salesforce , Salesforce Government Cloud ,PaaS,HUD,ATO on File
+HUD,GovDelivery , GovDeilvery Communication Cloud ,SaaS,,Need ATO
+NARA,Google , Google Services ,PaaS,NARA,ATO on File
+NARA,Salesforce , Salesforce Government Cloud ,PaaS,NARA,ATO on File
+NARA,AWS , Application Platform,SaaS,,Need ATO
+NARA,AWS , Infrastrucure Platform,SaaS,,Need ATO
+NARA,Cornerstone OnDemand , Unified Talent Management Suite ,SaaS,,Need ATO
+NARA,Akamai , Content Delivery Services ,IaaS,NARA,Needs Confirmation
+NASA,Amazon , AWS US East/West ,IaaS,NASA,ATO on File
+NASA,Oracle , Oracle Service Cloud ,SaaS,NASA,ATO on File
+NASA,ServiceNow , ServiceNow Service Automation Government Cloud Suite ,SaaS,NASA,ATO on File
+NASA,iSite LLC , iSite Contract Management Portal ,SaaS,NASA,ATO In-Process
+NASA,Jive Software , Jive FedRAMP ,SaaS,NASA,ATO In-Process
+NASA,PTC , PTC Cloud Services ,SaaS,NASA,ATO In-Process
+NASA,Akamai , Content Delivery Services ,IaaS,,Need ATO
+NASA,Google , Google Services ,PaaS,,Need ATO
+NASA,IBM , MaaS360 Enterprise Mobility Management ,SaaS,,Need ATO
+NASA,Salesforce , Salesforce Government Cloud ,PaaS,,Need ATO
+NASA,Microsoft , Parature Customer Service Application ,SaaS,,Need ATO
+NASA,Cloud Aware,Cloud Aware,SaaS,,No ATO
+NASA,CloudLock,CloudLock,SaaS,,No ATO
+NASA,Force.com ,Force.com ,PaaS,,No ATO
+NASA,LimeLight,LimeLight,SaaS,,No ATO
+NASA,Splunk,Splunk,SaaS,,No ATO
+NSF,Accenture Federal Services , Accenture Federal Cloud ERP ,SaaS,NSF,ATO on File
+NSF,Akamai , Content Delivery Services ,IaaS,NSF,ATO on File
+NSF,Amazon , AWS GovCloud ,IaaS,NSF,ATO on File
+NSF,Amazon , AWS US East/West ,IaaS,NSF,ATO on File
+NSF,Datapipe Government Services , Datapipe Government Solutions Federal Community Cloud Platform ,PaaS,NSF,ATO on File
+NSF,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,NSF ,ATO on File
+NSF,Microsoft , Azure Commercial Cloud ,IaaS,NSF,ATO on File
+NSF,Microsoft , Global Foundation Services ,IaaS,NSF,ATO on File
+OPM,Autonomic Resources LLC ,Autonomic Resources LLC ,SaaS,,ATO on File
+OPM,General Dynamics Information Technology , Customer eXperience Platform ,PaaS,OPM,ATO on File
+OPM,General Dynamics Information Technology , GDIT Cloud ,IaaS,OPM,ATO on File
+OPM,PowerTrain Inc. , Web Development and Hosting ,SaaS,OPM,ATO on File
+OPM,"Cylance, Inc. ", CylancePROTECT ,SaaS,OPM,ATO In-Process
+OPM,MicroPact , MicroPact Product Suite ,PaaS,,Authorized
+OPM,IBM , MaaS360 Enterprise Mobility Management ,SaaS,,Authorized
+SBA,1901 Group , In3Sight Service System ,IaaS,SBA,ATO on File
+SBA,Box Inc. , Box Enterprise Cloud Content Collaboration Platform ,SaaS,,Need ATO
+SBA,Datapipe Government Solutions , Datapipe Government Solutions Federal Community Cloud Platform ,PaaS,,Need ATO
+SBA,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,,Need ATO
+SBA,Salesforce , Salesforce Government Cloud ,PaaS,,Need ATO
+SBA,ServiceNow , ServiceNow Service Automation Government Cloud Suite ,SaaS,,Need ATO
+SSA,Acquia Inc. , Acquia Cloud ,PaaS,SSA,ATO on File
+SSA,Amazon , AWS US East/West ,IaaS,SSA,ATO on File
+SSA,Esri , Esri Managed Cloud Services ,PaaS,SSA,ATO on File
+SSA,ServiceNow , ServiceNow Service Automation Government Cloud Suite ,SaaS,SSA,ATO on File
+SSA,Everbridge , Everbridge Suite ,SaaS,,Need ATO
+SSA,GovDelivery , GovDelivery Communications Cloud ,SaaS,,Need ATO
+SSA,Microsoft , Parature Customer Service Application ,SaaS,,Need ATO
+State,Akamai , Content Delivery Services ,IaaS,OIG,ATO on File
+State,Microsoft , Azure Public and Government Community Cloud Solution ,IaaS,OIG,ATO on File
+State,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,OIG ,ATO on File
+State,"ServiceNow, Inc. ", ServiceNow Service Automation Government Cloud Suite ,SaaS,DoS,ATO on File
+State,QuestionMark , QuestionMark OnDemand for Government ,SaaS,DoS,ATO In-Process
+State,Citrix , Citrix ShareFile ,SaaS,DoS,ATO In-Process
+State,"Envisage Technologies, Inc. ", Acadis Readiness Suite ,SaaS,DoS,ATO In-Process
+State,Amazon , AWS GovCloud ,SaaS,,Need ATO
+State,Box Inc. , Box Enterprise Cloud Content Collaboration Platform ,SaaS,,Need ATO
+State,GovDelivery , GovDelivery Communications Cloud ,SaaS,,Need ATO
+Treasury,Acquia Inc. , Acquia Cloud ,PaaS,Treasury,ATO on File
+Treasury,Akamai , Content Delivery Services ,IaaS,Treasury,ATO on File
+Treasury,Akamai , Content Delivery Services ,IaaS,IRS,ATO on File
+Treasury,Amazon , AWS US East/West ,IaaS,Treasury,ATO on File
+Treasury,Amazon , AWS US East/West ,IaaS,IRS,ATO on File
+Treasury,Amazon , AWS Gov Cloud ,IaaS,Treasury,ATO on File
+Treasury,Amazon , AWS Gov Cloud ,IaaS,IRS,ATO on File
+Treasury,BlackBerry , BlackBerry Cloud AtHoc Services for Government,SaaS,Treasury ,ATO on File
+Treasury,Box Inc. , Box Enterprise Cloud Content Collaboration Platform ,SaaS,Treasury,ATO on File
+Treasury,Cornerstone OnDemand , Unified Talent Management Suite ,SaaS,Treasury,ATO on File
+Treasury,Datapipe Government Solutions , Datapipe Government Solutions Federal Community Cloud Platform ,PaaS,IRS,ATO on File
+Treasury,GovDelivery , GovDelivery Communications Cloud ,SaaS,Treasury,ATO on File
+Treasury,MicroPact , MicroPact Product Suite ,PaaS,US Mint,ATO on File
+Treasury,Microsoft , Azure Government ,IaaS,IRS,ATO on File
+Treasury,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,OCC ,ATO on File
+Treasury,Oracle , Federal Managed Cloud Services ,PaaS,Bureau of Engraving and Printing,ATO on File
+Treasury,Oracle , Federal Managed Cloud Services ,PaaS,Bureau of Engraving and Printing,ATO on File
+Treasury,Oracle , Federal Managed Cloud Services ,PaaS,Bureau of Fiscal Service,ATO on File
+Treasury,ServiceNow , ServiceNow Service Automation Government Cloud Suite ,SaaS,OCC,ATO on File
+Treasury,United States Department of the Treasury , Workplace.gov Community Cloud ,PaaS,Treasury,ATO on File
+Treasury,United States Department of the Treasury , Workplace.gov Community Cloud ,PaaS,Treasury,ATO on File
+Treasury,mLINQS , mLINQS Hosting Service ,SaaS,IRS,ATO In-Process
+Treasury,OneStream Software , OneStream XF Cloud ,SaaS,Bureau of Fiscal Service,ATO In-Process
+Treasury,Appian , Appian ,SaaS,,Need ATO
+Treasury,CGI Federal , CGI Federal Cloud ,IaaS,,Need ATO
+Treasury,"Citrix Systems, Inc. ", Citrix ShareFile,SaaS,,Need ATO
+Treasury,Leidos , Solutions as a Service ,SaaS,,Need ATO
+Treasury,MobileIron , MobileIron Government Cloud,SaaS,,Need ATO
+Treasury,Salesforce , Salesforce Government Cloud,SaaS,,Need ATO
+Treasury,DM,DM,SaaS,,No ATO
+Treasury,eFOIA,eFOIA,SaaS,,No ATO
+Treasury,Monster,Monster,SaaS,,No ATO
+Treasury,NC4,NC4,SaaS,,No ATO
+Treasury,Network Solutions,Network Solutions,SaaS,,No ATO
+Treasury,PayPal,PayPal,SaaS,,No ATO
+Treasury,PFS Web,PFS Web,SaaS,,No ATO
+USAID,Amazon , AWS US East/West ,IaaS,USAID,ATO on File
+USAID,Compusearch , Compusearch FedConnect,SaaS,USAID,ATO on File
+USAID,Google , Google Service ,PaaS,USAID,ATO on File
+USAID,Huddle , Huddle US ,IaaS,USAID,ATO on File
+USAID,Salesforce _ Salesforce Government Cloud ,Salesforce _ Salesforce Government Cloud ,SaaS,,ATO on File
+USAID,TIBCO , Tibbr ,SaaS,USAID,ATO on File
+USAID,Adobe , Adobe Connect Managed Services ,SaaS,,Need ATO
+USAID,Cornerstone OnDemand , Unified Talent Management Suite ,SaaS,,Need ATO
+USAID,Economic Systems Federal Human Resources Navigator ,Economic Systems Federal Human Resources Navigator ,SaaS,,Need ATO
+USAID,GovDelivery , GovDelivery Communications Cloud ,SaaS,,Need ATO
+USAID,IBM , SmartCloud for Government ,IaaS,,Need ATO
+USAID,MicroPact , MicroPact Product Suite ,PaaS,,Need ATO
+USAID,"ServiceNow, Inc. ", ServiceNow Service Automation Government Cloud Suite ,SaaS,,Need ATO
+USAID,Verizon Enterprise Cloud Federal Edition ,Verizon Enterprise Cloud Federal Edition ,IaaS,,Need ATO
+USAID,OTI Anywhere ,OTI Anywhere ,SaaS,,No ATO
+USAID,Akamai , Content Delivery Services ,IaaS,USAID,Needs Confirmation
+USDA,BMC Software , BMC Remedy Fed,SaaS,USDA ,ATO on File
+USDA,BMC Software , BMC Remedy Fed,SaaS,USFS,ATO on File
+USDA,Esri , Esri Managed Cloud Services ,PaaS,USDA,ATO on File
+USDA,GovDelivery , GovDelivery Communication Cloud ,SaaS,NIFA,ATO on File
+USDA,Salesforce , Salesforce Government Cloud ,IaaS,USDA,ATO on File
+USDA,United States Department of Agriculture , USDA National Information Technology Center ,IaaS,USDA,ATO on File
+USDA,Pegasystems Inc , Pega Cloud ,PaaS,UDSA,ATO In-Process
+USDA,Replicon , Replicon Cloud ,SaaS,USDA,ATO In-Process
+USDA,SpringCM , SpringCM ,SaaS,APHIS,ATO In-Process
+USDA,Amazon , AWS GovCloud ,IaaS,,Need ATO
+USDA,Amazon , AWS US East/West ,IaaS,,Need ATO
+USDA,CGI Federal , CGI IaaS Cloud,IaaS,,Need ATO
+USDA,Microsoft O365 ,Microsoft O365 ,SaaS,,Need ATO
+USDA,Microsoft , Azure Commercial Cloud ,IaaS,,Need ATO
+USDA,New Relic , New Relic ,SaaS,,Need ATO
+USDA,Project Hosts , Federal Private Cloud for Windows and Linux Application ,SaaS,,Need ATO
+USDA,"Environmental System Research Institute, Inc.","Environmental System Research Institute, Inc.",SaaS,,No ATO
+USDA,Amazon , AWS US East/West ,IaaS,USDA,Needs Confirmation
+USDA,Akamai , Content Delivery Services ,IaaS,USDA,Needs Confirmation
+USNRC,IBM , MaaS360 Enterprise Mobility Management ,SaaS,USNRC,ATO on File
+USNRC,Veracode , Veracode Application Security Services System ,SaaS,USNRC,ATO In-Process
+USNRC,GovDelivery , GovDelivery Communication Cloud ,SaaS,,Need ATO
+USNRC,Micropact , MicroPact ,SaaS,,Need ATO
+USNRC,Microsoft , Azure Commercial Cloud,SaaS,,Need ATO
+USNRC,United States Department of Agriculture , USDA National Information Technology Center,SaaS,,Need ATO
+VA,Amazon , AWS US East/West ,IaaS,VA,ATO on File
+VA,Amazon , AWS GovCloud High ,IaaS,VA,ATO on File
+VA,Google , Google Services ,PaaS,VA,ATO on File
+VA,Microsoft , Azure Public Cloud  ,IaaS,VA,ATO on File
+VA,Microsoft , Azure Government ,IaaS,VA,ATO on File
+VA,Microsoft , Dynamics CRM Online for Government ,SaaS,VA,ATO on File
+VA,Microsoft , Office 365 Multi Tenant & Supporting Services,SaaS,VA ,ATO on File
+VA,Oracle , Oracle Service Cloud [SaaS],SaaS,,ATO on File
+VA,Salesforce , Salesforce Government Cloud ,PaaS,VA,ATO on File
+VA,HealthStream Learning Center ,HealthStream Learning Center ,SaaS,,ATO In-Process
+VA,Akamai , Content Delivery Services ,IaaS,OIG,Need ATO
+VA,CGI Federal , CGI IaaS Cloud,IaaS,,Need ATO
+VA,GovDelivery , GovDelivery Communications Cloud ,SaaS,,Need ATO
+VA,IBM , MaaS360 Enterprise Mobility Management ,SaaS,,Need ATO
+VA,IT,CNP GovDataHosting Cloud Platform,PaaS,,Need ATO
+VA,New Relic , New Relic ,SaaS,,Need ATO
+VA,SkyHigh , Cloud Access Security Broker for Government,SaaS,,Need ATO
+VA,Virtustream , Federal Cloud ,SaaS,VFC,Need ATO
+VA,GRB,GRB,SaaS,,No ATO
+VA,HRA,HRA,SaaS,,No ATO
+VA,Virtu Pro,Virtu Pro,SaaS,,No ATO
+VA,Akamai , Content Delivery Services ,IaaS,,Needs Confirmation
+VA,Oracle , Oracle Service Cloud [SaaS],SaaS,,Needs Confirmation
+VA,Akamai , Content Delivery Services ,IaaS,VA,Needs Confirmation
